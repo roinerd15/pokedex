@@ -1,8 +1,11 @@
 {
   "globalHeaders": {
-    "Content-Security-Policy": "default-src 'self';  img-src 'self' https://raw.githubusercontent.com https://pokeapi.co https://assets.pokemon.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://beta.pokeapi.co",
-    "X-Content-Type-Options": "nosniff",
-    "Permissions-Policy": "geolocation=(), microphone=(), camera=()",
-    "Referrer-Policy": "strict-origin-when-cross-origin"
-  }
+    "Content-Security-Policy": "default-src 'self' https://pokeapi.co; connect-src *; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src * data:; font-src 'self' https://fonts.gstatic.com;",
+    "X-Frame-Options": "DENY",
+    "Permissions-Policy": "geolocation=(), camera=(), microphone=()",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+  },
+  "navigationFallback": {
+    "rewrite": "/index.html"
+  }
 }
