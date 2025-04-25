@@ -1,2 +1,2 @@
-# ac4dem1a
+# PokeDex
 Worshops de distintas tecnologias
