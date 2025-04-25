@@ -1,6 +1,6 @@
 {
   "globalHeaders": {
-    "Content-Security-Policy": "default-src 'self'; script-src 'self' https://apis.google.com",
+    
     "X-Frame-Options": "DENY",
     "Permissions-Policy": "geolocation=(), microphone=(), camera=()"
   }
