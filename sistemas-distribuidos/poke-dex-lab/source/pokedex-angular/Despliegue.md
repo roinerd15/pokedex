@@ -38,7 +38,7 @@ Este documento describe cómo desplegar una aplicación desde un repositorio de 
 
 ## Paso 4: Acceder a la Aplicación Desplegada
 
-1. **Obtener el Enlace**: Una vez que el despliegue esté completo, selecciona el enlace de la página y pégalo en tu navegador. El enlace de la aplicación es: [Aplicación Desplegada](https://delightful-tree-03be9381e.6.azurestaticapps.net/?version=9).
+1. **Obtener el Enlace**: Una vez que el despliegue esté completo, selecciona el enlace de la página y pégalo en tu navegador. El enlace de la aplicación es: [Aplicación Desplegada](https://jolly-mushroom-086ed2310.6.azurestaticapps.net/).
 
 ## Paso 5: Mejorar la Seguridad
 
