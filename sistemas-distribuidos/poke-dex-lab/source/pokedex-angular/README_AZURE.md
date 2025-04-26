@@ -1,8 +1,3 @@
-# Etudiante
-
-
-
-
 
 # Paso a Paso: Crear una Cuenta Azure en la Nube
 
